@@ -14,3 +14,18 @@ drwxr-xr-x 6 root root 4096 Apr 21 13:26 ..
 -rw-r--r-- 1 root root   24 Apr 21 17:36 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 -rw-r--r-- 1 root root  764 Apr 21 18:05 ls_cwd_content
 -rw-r--r-- 1 root root    0 Apr 21 18:07 tmp_file
+total 56
+drwxr-xr-x 2 root root 4096 Apr 21 18:10 .
+drwxr-xr-x 6 root root 4096 Apr 21 13:26 ..
+-rwxr-xr-x 1 root root   32 Apr 21 13:27 0-hello_world
+-rwxr-xr-x 1 root root   28 Apr 21 13:48 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Apr 21 13:58 2-hellofile
+-rwxr-xr-x 1 root root   39 Apr 21 14:02 3-twofiles
+-rwxr-xr-x 1 root root   29 Apr 21 14:05 4-lastlines
+-rwxr-xr-x 1 root root   29 Apr 21 14:07 5-firstlines
+-rwxr-xr-x 1 root root   36 Apr 21 14:16 6-third_line
+-rwxr-xr-x 1 root root   92 Apr 21 17:38 7-file
+-rwxr-xr-x 1 root root   37 Apr 21 18:10 8-cwd_state
+-rw-r--r-- 1 root root  259 Apr 21 13:35 README.md
+-rw-r--r-- 1 root root   24 Apr 21 17:36 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  814 Apr 21 18:07 ls_cwd_content
